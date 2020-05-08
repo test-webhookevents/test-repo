@@ -5,3 +5,4 @@ test
 check
 
 test
+check 2
